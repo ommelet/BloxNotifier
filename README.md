@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/ommelet/BloxNotifier/blob/ac7a9b0d5057d69fba38e803e07cecb2942501a3/Images/logo_dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/ommelet/BloxNotifier/blob/ac7a9b0d5057d69fba38e803e07cecb2942501a3/Images/logo_light.png#gh-light-mode-only" width="420">
+    <img src="https://github.com/ommelet/BloxNotifier/blob/ac7a9b0d5057d69fba38e803e07cecb2942501a3/Images/logo_dark.png#gh-dark-mode-only" width="840">
+    <img src="https://github.com/ommelet/BloxNotifier/blob/ac7a9b0d5057d69fba38e803e07cecb2942501a3/Images/logo_light.png#gh-light-mode-only" width="840">
 </p>
 
 <div align="center">
