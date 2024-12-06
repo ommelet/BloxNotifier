@@ -5,31 +5,32 @@
 
 <div align="center">
 
-[![Discord][discord-server]][discord-invite]
-
 </div>
 
 ----
 
 BloxNotifier is a bot that delivers notifications for Welcome to Bloxburg updates, offering detailed information on games, users, and more, enhancing your Roblox experience.
 
-This bot is still under development and, errors may ocurr. If you find any, please contact us via our [Discord Server](https://img.shields.io/discord/1313318679072473109?logo=discord&logoColor=white&label=discord&color=4d3dff)
-
-Bloxstrap is only supported for PCs running Windows.
+This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via our [Discord Server](https://img.shields.io/discord/1313318679072473109?logo=discord&logoColor=white&label=discord&color=4d3dff) for assistance.
 
 ## Frequently Asked Questions
 
-**Q: Is this malware?**
+**Q: What does this bot do?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com).
+**A:** The bot sends notifications about updates for *Welcome to Bloxburg* and provides information about Roblox users, games, and groups.
 
-**Q: Can using this get me banned?**
+**Q: Can I customize update notifications?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
+**A:** You can personalize your notifications by setting the language, adjusting notification intervals, deciding whether messages include mentions, and more. All of this can be configured using the `/config setup` command.
 
-**Q: Why was multi-instance launching removed?**
+**Q: Can the bot be used in private messages?
 
-**A:** It was removed starting with v2.6.0 for the [reasons stated here](https://github.com/bloxstraplabs/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap). It may be added back in the future when there are less issues with doing so.
+**A:** Yes, the bot works seamlessly in both servers and direct messages. You can configure it to send notifications to the channel or DM that suits you best.
+
+**Q: How can I report bugs or suggest features?
+
+**A:** If you encounter any issues or have ideas for improvements, you can use the `/bot support` command. This allows you to submit bug reports or suggestions, and even attach images to provide more context.
+
 
 ## Features
 
@@ -56,6 +57,3 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 
 Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
 
-[discord-server]: https://img.shields.io/discord/1313318679072473109?logo=discord&logoColor=white&label=discord&color=4d3dff
-
-[discord-invite]:  https://discord.gg/nbs2ekQ83G
