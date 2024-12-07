@@ -11,7 +11,7 @@
 
 BloxNotifier is a bot that delivers notifications for **Welcome to Bloxburg** updates, offering detailed information on games, users, and more, enhancing your Roblox experience.
 
-This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via our [Discord Server](https://discord.gg/nbs2ekQ83G) for assistance.
+This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via our [Discord Server](https://discord.gg/u4gXxxPvj3) for assistance.
 
 ## Frequently Asked Questions (FAQ)
 
