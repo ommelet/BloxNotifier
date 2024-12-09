@@ -13,6 +13,8 @@ BloxNotifier is a bot that delivers notifications for **Welcome to Bloxburg** up
 
 This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via our [Discord Server](https://discord.gg/u4gXxxPvj3) for assistance.
 
+[Add this bot](https://discord.com/oauth2/authorize?client_id=1315764098797015110&permissions=1126174852312064&integration_type=0&scope=bot)
+
 ## Frequently Asked Questions (FAQ)
 
 **Q: What does this bot do?**
