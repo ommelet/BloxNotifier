@@ -15,9 +15,6 @@ This bot is currently under development, and errors may occur. If you encounter 
 
 [Add this bot](https://discord.com/oauth2/authorize?client_id=1315764098797015110&permissions=1126174852312064&integration_type=0&scope=bot)
 
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Terms of Service](./TERMS_OF_SERVICE.md)
-
 ## Frequently Asked Questions (FAQ)
 
 **Q: What does this bot do?**
@@ -44,3 +41,5 @@ This bot is currently under development, and errors may occur. If you encounter 
 - Fully customizable notifications with options for language, intervals, mentions, and more.
 - Seamless functionality in both servers and direct messages, tailored to your preference.
 
+- [Privacy Policy](./PRIVACY_POLICY.md)
+- [Terms of Service](./TERMS_OF_SERVICE.md)
