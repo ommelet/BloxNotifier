@@ -41,5 +41,5 @@ This bot is currently under development, and errors may occur. If you encounter 
 - Fully customizable notifications with options for language, intervals, mentions, and more.
 - Seamless functionality in both servers and direct messages, tailored to your preference.
 
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Terms of Service](./TERMS_OF_SERVICE.md)
+[Privacy Policy](./PRIVACY_POLICY.md)
+[Terms of Service](./TERMS_OF_SERVICE.md)
