@@ -1,6 +1,6 @@
 # Privacy Policy / Política de Privacidad
 
-_Last updated: June 22, 2025_
+_Last updated: June 25, 2025_
 
 ## English
 
