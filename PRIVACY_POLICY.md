@@ -12,7 +12,7 @@ BloxNotifier is a Discord bot developed and maintained by an individual develope
 - **Server Data:** Server name and member count.
 - **Usage Logs:** Activity logs for internal diagnostics only.
 
-All data is stored securely in a private, encrypted SQLite database. No personally identifiable information is used to track individual users. Data is not shared with third parties.
+All data is stored securely in a private, encrypted database. No personally identifiable information is used to track individual users. Data is not shared with third parties.
 
 ### 2. Purpose
 
@@ -46,7 +46,7 @@ BloxNotifier es un bot de Discord desarrollado y mantenido por un desarrollador 
 - **Datos del Servidor:** Nombre del servidor y cantidad de miembros.
 - **Registros de Uso:** Logs de actividad usados únicamente para diagnóstico interno.
 
-Todos los datos se almacenan de forma segura en una base de datos SQLite cifrada. No se utiliza información personal para rastrear usuarios individuales. Los datos no se comparten con terceros.
+Todos los datos se almacenan de forma segura en una base de datos encriptada. No se utiliza información personal para rastrear usuarios individuales. Los datos no se comparten con terceros.
 
 ### 2. Propósito
 
