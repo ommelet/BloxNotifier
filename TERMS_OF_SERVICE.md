@@ -1,5 +1,5 @@
 # Terms of Service / Términos de Servicio  
-_Last updated: June 22, 2025_
+_Last updated: June 25, 2025_
 
 ## English
 
