@@ -53,6 +53,8 @@ These Terms may change. Users will be notified via an embed the next time they u
 
 Questions may be submitted via the `/bot support` command on Discord.
 
+---
+
 ## Español
 
 ### 1. Aceptación de los Términos
@@ -103,6 +105,8 @@ Estos Términos pueden cambiar. Los usuarios serán notificados mediante un embe
 ### 11. Contacto
 
 Puedes enviar consultas mediante el comando `/bot support` en Discord.
+
+---
 
 ## Português
 
