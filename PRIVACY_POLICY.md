@@ -2,8 +2,6 @@
 
 *Last updated: June 25, 2025*
 
----
-
 ## English
 
 BloxNotifier is a Discord bot developed and maintained by an individual developer. This Privacy Policy explains how information is collected, used, and protected.
