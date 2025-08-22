@@ -13,7 +13,7 @@ BloxNotifier is a bot that delivers notifications for any Roblox experience upda
 
 This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via `/bot support` command for assistance.
 
-[Add this bot](https://discord.com/oauth2/authorize?client_id=1315764098797015110&permissions=1126174852312064&integration_type=0&scope=bot)
+[Add this bot](https://discord.com/oauth2/authorize?client_id=1315764098797015110)
 
 ## Frequently Asked Questions (FAQ)
 
