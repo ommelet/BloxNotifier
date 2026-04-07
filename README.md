@@ -11,9 +11,11 @@
 
 BloxNotifier is a bot that delivers notifications for any Roblox experience updates, offering detailed information on games, users, groups, assets and more, enhancing your Roblox experience.
 
-This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us via `/bot support` command for assistance.
+This bot is currently under development, and errors may occur. If you encounter any issues, please reach out to us using the `/bot support` command or through our **support server** for assistance.
 
 [Add this bot](https://discord.com/oauth2/authorize?client_id=1315764098797015110)
+
+[Support Server](https://discord.gg/ME5uQstHhD)
 
 ## Frequently Asked Questions (FAQ)
 
@@ -31,7 +33,7 @@ This bot is currently under development, and errors may occur. If you encounter 
 
 **Q: How can I report bugs or suggest features?**
 
-**A:** If you encounter any issues or have ideas for improvements, you can use the `/bot support` command. This allows you to submit bug reports or suggestions, and even attach images to provide more context.
+**A:** If you encounter any issues or have ideas for improvements, you can use the `/bot support` command or join our **support server**. This allows you to submit bug reports or suggestions.
 
 **Q: Does the bot require administrator permissions?**
 
